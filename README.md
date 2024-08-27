@@ -16,7 +16,7 @@ This project aims to investigate the factors that influence the success of movie
 - **Report Generation:** Summarizing the findings with insights and visualizations.
 # Analysis Breakdown
 
-1. Movie Genre Analysis
+1. **Movie Genre Analysis**
 
 - Objective: 
 
@@ -34,7 +34,7 @@ The most common genres are Action, Adventure, Comedy, Crime, and Drama.
 
 No significant genre showed a clear advantage in ratings.
 
-2. Movie Duration Analysis
+2. **Movie Duration Analysis**
 
 - Objective: 
 
@@ -52,7 +52,7 @@ A weak correlation between movie duration and IMDB ratings, suggesting length al
 
 Slight trend indicating movies over 250 minutes might score between 6 and 8.5 on IMDB.
 
-3. Language Analysis
+3. **Language Analysis**
 
 - Objective: 
 
@@ -70,7 +70,7 @@ English is the dominant language, followed by French, Spanish, and others.
 
 Movies in non-English languages generally have slightly lower IMDB scores, indicating potential audience biases.
 
-4. Director Analysis
+4. **Director Analysis**
 
 - Objective: 
 
@@ -88,7 +88,7 @@ Top directors include John Blanchard, Sadyk Sher-Niyaz, and Christopher Nolan.
 
 These directors consistently produced high-rated movies, indicating a strong influence on audience perception.
 
-5. Budget Analysis
+5. **Budget Analysis**
 
 - Objective: 
 
