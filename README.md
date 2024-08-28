@@ -166,7 +166,7 @@ These findings offer actionable recommendations for filmmakers, producers, and s
 
 - Email: subha.mainak@gmail.com
 
-- Linkedin: www.linkedin.com/in/mainakmukherjee08
+- Linkedin: www.linkedin.com/in/mainak8
 
 
 ### Concepts Used
